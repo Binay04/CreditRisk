@@ -68,6 +68,6 @@ Loan_default → Insights → Baseline Models → Optimized Model
 
 ## Key Metrics
 
-- **Primary Evaluation Metric**: Cross-validated AUC
+- **Primary Evaluation Metric**: Cross-validated AUC, F1 Score
 - **Final Model Selection**: Balance between Precision and Recall
 - **Focus**: Minimizing false positives while maintaining detection capability
