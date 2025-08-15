@@ -1,12 +1,12 @@
-Credit Risk Model for University Project
+                                                                        **Credit Risk Model for University Project**
 This repository documents a credit risk model developed as a university project. The objective was to build a robust predictive model that estimates the probability of a loan defaulting. The project is organized into three distinct phases, each captured in a separate Jupyter Notebook, to ensure a clear and reproducible workflow.
 
-Dataset
+**Dataset**
 The dataset used for this project, Loan_default.csv, was sourced from Kaggle. It contains a variety of features related to borrowers and their loan applications, which are used to predict the likelihood of default.
 
 Kaggle URL: www.kaggle.com/datasets/nikhil1e9/loan-default
 
-Project Structure
+**Project Structure**
 The project is structured around three key notebooks that cover the entire model development life cycle:
 
 ProbabilityOfLoanDefaultEDA.ipynb
